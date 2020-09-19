@@ -7,10 +7,10 @@ import { removeError, setError } from '../../actions/ui';
 import { startRegister } from '../../actions/auth';
 
 const initialState = {
-    name: "Nicolas",
-    email: "nicolas@nicolas.com",
-    password: "123456",
-    confirm: "123456"
+    name: "",
+    email: "",
+    password: "",
+    confirm: ""
 }
 
 
